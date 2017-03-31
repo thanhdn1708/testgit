@@ -9,4 +9,3 @@
 echo 'test';
 echo 'tsst2';
 echo 'teee';
-echo 'new';
