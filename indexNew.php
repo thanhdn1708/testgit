@@ -10,4 +10,3 @@ echo 'test';
 echo 'tsst2';
 echo 'teee';
 echo 'new';
-var_dump('23');
