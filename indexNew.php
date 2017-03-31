@@ -7,4 +7,3 @@
  */
 
 echo 'test';
-echo 'tsst2';
